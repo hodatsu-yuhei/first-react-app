@@ -1,0 +1,12 @@
+.MainSection {
+  background-image: url("../images/studio.jpg");
+  height: 750px;
+  width: 100%;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.IntroductionSection #instructor {
+  height: 500px;
+  width: 250px;
+}
