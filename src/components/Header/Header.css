@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+header > h1 {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+}
+
+header > h1 > img {
+  height: 100%;
+  width: 100%;
+}
+
+nav > ul {
+  display: flex;
+  justify-content: end;
+}
+
+nav > ul > li {
+  text-decoration: none;
+  margin: 4px 20px;
+}
